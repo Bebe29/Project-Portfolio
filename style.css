@@ -4,7 +4,7 @@
 }
 
 .main-image {
-  background: url("/FrontEnd/Portfolio/gambar/IMG_7537_1.jpg");
+  background: url("./gambar/IMG_7537_1.jpg");
   height: 750px;
   background-position: center;
   background-attachment: fixed;
